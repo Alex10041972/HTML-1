@@ -1,0 +1,38 @@
+body {
+	background: #c0c0c0;
+}
+
+.sheet {
+	background: white;
+	width: 513px;
+	margin: 0 auto;
+	box-shadow: inset 0px 0px 17px 9px rgba(0,0,0,0.79);
+}
+
+.head {
+	text-align:  center;
+	padding-top: 10px;
+	color: black
+}
+.foto{
+	text-align:  center;
+	padding-top: 40px;
+}
+.text{
+	padding-bottom: 20px;
+	padding-left: 10px;
+	margin: 10px 30px 10px 30px;
+	border-bottom: solid 1px black;
+}
+
+.text1{
+	padding-bottom: 20px;
+	padding-left: 40px;
+	line-height: 10px;
+	
+}
+
+.text2{
+	padding-bottom: 50px;
+}
+
